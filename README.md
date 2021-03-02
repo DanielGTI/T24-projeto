@@ -33,7 +33,7 @@ Sem o envio do email com estas informações o trabalho não será corrigido.
 
 ## Calendário de Entregas
 * **31/05/2021**
-	+ Versionamento do projeto.
+	+ Versionamento do projeto no Github. 
 	+ Publicação do projeto na AWS.
 	+ Envio do email formalizando a entrega do projeto.
 		
