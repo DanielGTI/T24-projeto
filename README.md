@@ -30,3 +30,12 @@ Prof. Daniel Ferreira de Barros Junior. - ([danielf@uni9.pro.br](mailto:danielf@
 
 ## Contato
 Em caso de dúvidas encaminhe-me um e-mail, sempre informando seu **RA**, **Nome** e o nome deste repositório **(T24-projeto)** no título da mensagem.
+
+
+## Dicas
+**Versionamento de GIT/Github**
+
+Playlist: GERAÇÃO TI https://youtube.com/geracaoti
+
+Playlist: 
+https://www.youtube.com/watch?v=IEz_0ZQZ3sQ&list=PL4ITHPnJ4STiWISI4cwYoaAy5PATKOh9x
