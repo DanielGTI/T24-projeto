@@ -33,8 +33,9 @@ Sem o envio do email com estas informações o trabalho não será corrigido.
 
 ## Calendário de Entregas
 * **31/05/2021**
-	+ Versionamento do projeto
+	+ Versionamento do projeto.
 	+ Publicação do projeto na AWS.
+	+ Envio do email formalizando a entrega do projeto.
 		
     
 ## Professor
@@ -47,7 +48,12 @@ Em caso de dúvidas encaminhe-me um e-mail, sempre informando seu **RA**, **Nome
 ## Dicas
 **Versionamento de GIT/Github**
 
-**GERAÇÃO TI:** https://youtube.com/geracaoti
+**CANAL GERAÇÃO TI:** https://youtube.com/geracaoti
 
 Playlist: 
 https://www.youtube.com/watch?v=IEz_0ZQZ3sQ&list=PL4ITHPnJ4STiWISI4cwYoaAy5PATKOh9x
+
+
+**Página de inscrição do AWS Educate:**
+
+Link: https://www.awseducate.com/signin/SiteLogin
