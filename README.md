@@ -8,15 +8,27 @@ Nesse semestre teremos um novo desafio na construção do Projeto, onde vocês i
 
 O seu grupo deve criar um sistema WEB, que pode ser uma página institucional, um blog, uma API, um sistema online com cadastro de produtos e clientes, um jogo online, ou qualquer Sistema WEB, desde que esteja hospedado na AWS e versionado no Github.
 
-**GRUPOS** 
+O grupo deve escolher a linguagem de programação ou framework necessesária a execução do projeto proposto.  
+
+
+## GRUPOS 
 
 Os grupos devem ser formados com 6 a 12 alunos, por grupo. Cada grupo deve criar um repositório no Github e indicar os integrantes no próprio repositório do projeto. 
 
 
-**Entregas**. 
+## ENTREGA 
 
 As correções serão realizadas acessando diretamente o projeto do Github e o Sistema WEB online, hospedado no AWS. O endereço do sistema WEB deve constar no versionamento.
-Portanto, não enviar documentos por e-mail. 
+Portanto, não enviar o projeto, documentação ou códigos por e-mail.
+
+**Para formalizar a entrega do projeto**, apenas um integrante do grupo deve enviar por email informando os seguintes dados no corpo da mensagem:
+* Informar:
+	+ **Nome e RA de cada um dos integrantes do grupo**. 
+	+ **Endereço do repositório**.
+	+ **Endereço do Sistema WEB** (Hospedado na AWS)
+	
+**ATENÇÃO:**
+Sem o envio do email com estas informações o trabalho não será corrigido. 
 
 
 ## Calendário de Entregas
