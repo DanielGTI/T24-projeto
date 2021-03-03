@@ -37,7 +37,7 @@ Sem o envio do email com estas informações o trabalho não será corrigido.
 	+ Publicação do projeto na AWS.
 	+ Envio do email formalizando a entrega do projeto.
 
-No **Titulo** do email informar apenas: **Entrega T31-projeto**
+No **Titulo** do email informar apenas: **Entrega T24-projeto**
 
 
 ## Professor
