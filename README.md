@@ -36,8 +36,10 @@ Sem o envio do email com estas informações o trabalho não será corrigido.
 	+ Versionamento do projeto no Github. 
 	+ Publicação do projeto na AWS.
 	+ Envio do email formalizando a entrega do projeto.
-		
-    
+
+No **Titulo** do email informar apenas: **Entrega T31-projeto**
+
+
 ## Professor
 Prof. Daniel Ferreira de Barros Junior. - ([danielf@uni9.pro.br](mailto:danielf@uni9.pro.br))
 
