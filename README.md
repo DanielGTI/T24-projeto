@@ -8,7 +8,7 @@ Nesse semestre teremos um novo desafio na construção do Projeto, onde vocês i
 
 O seu grupo deve criar um sistema WEB, que pode ser uma página institucional, um blog, uma API, um sistema online com cadastro de produtos e clientes, um jogo online, ou qualquer Sistema WEB, desde que esteja hospedado na AWS e versionado no Github.
 
-O grupo deve escolher a linguagem de programação ou framework necessesária a execução do projeto proposto.  
+O grupo deve escolher a linguagem de programação ou framework necessária a execução do projeto proposto.  
 
 
 ## GRUPOS 
