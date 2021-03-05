@@ -59,3 +59,13 @@ https://www.youtube.com/watch?v=IEz_0ZQZ3sQ&list=PL4ITHPnJ4STiWISI4cwYoaAy5PATKO
 **Página de inscrição do AWS Educate:**
 
 Link: https://www.awseducate.com/signin/SiteLogin
+
+
+**Vídeo para inscrição no AWS Educate:**
+
+Link: https://www.youtube.com/watch?v=vzd1Fu0NBrU
+
+
+
+
+
